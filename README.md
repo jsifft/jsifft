@@ -1,14 +1,15 @@
 # Jacqueline Sifft
 Mathematics $\rightarrow$ cognitive science $\rightarrow$ (moving toward) computational psychiatric neuroscience.
 
-I'm motivated by how neuromodulation — TMS especially — could both treat 
+I'm motivated by how neuromodulation could both treat 
 psychiatric disorders and teach us about the neural dynamics underlying them. 
 I'm currently training toward that at the intersection of fMRI, computational 
 modeling, and neuroscience, coming from a background in mathematics.
 
 *I go by Jackie — you may also see me listed as Jacqueline Sifft.*
 
-📄 [CV](link) · 🎓 [ORCID](link) · ✉️ [email](mailto:a12511725@unet.univie.ac.at)
+📄 [CV](cv/CV_Sifft.pdf)  $\cdot$  🎓 [ORCID](https://orcid.org/0009-0001-6748-9440)  $\cdot$ 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=OhxcYscAAAAJ)
+  $\cdot$ 💼 [LinkedIn](linkedin.com/in/jacqueline-sifft-63a37b277) $\cdot$  ✉️ [email](mailto:a12511725@unet.univie.ac.at))
 
 ---
 
