@@ -1,4 +1,4 @@
-# Jackie Sifft
+# Jacqueline Sifft
 Mathematics $\rightarrow$ cognitive science $\rightarrow$ (moving toward) computational psychiatric neuroscience.
 
 I'm motivated by how neuromodulation — TMS especially — could both treat 
@@ -18,7 +18,7 @@ BSc in Mathematics (University of Bonn, thesis on Whitehead products in
 algebraic topology), now an MSc student in Cognitive Science (University
 of Vienna / Medical University of Vienna). I'm early in connecting these
 two sides — right now that means building fMRI/neuroimaging and
-computational-modeling skills through hands-on research projects, with
+computational-modeling skills through research projects, with
 the long-term aim of working across levels: from neural dynamics to
 psychiatric symptoms to neuromodulation-based treatment.
  
