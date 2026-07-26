@@ -9,7 +9,7 @@ modeling, and neuroscience, coming from a background in mathematics.
 *I go by Jackie — you may also see me listed as Jacqueline Sifft.*
 
 📄 [CV](cv/CV_Sifft.pdf)  $\cdot$  🎓 [ORCID](https://orcid.org/0009-0001-6748-9440)  $\cdot$ 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=OhxcYscAAAAJ)
-  $\cdot$ 💼 [LinkedIn](linkedin.com/in/jacqueline-sifft-63a37b277) $\cdot$  ✉️ [email](mailto:a12511725@unet.univie.ac.at))
+  $\cdot$ 💼 [LinkedIn](linkedin.com/in/jacqueline-sifft-63a37b277) $\cdot$  ✉️ [email](mailto:a12511725@unet.univie.ac.at)
 
 ---
 
