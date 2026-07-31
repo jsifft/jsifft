@@ -1,10 +1,11 @@
 # Jacqueline Sifft
 Mathematics $\rightarrow$ cognitive science $\rightarrow$ (moving toward) computational psychiatric neuroscience.
 
-I'm motivated by how neuromodulation could both treat 
-psychiatric disorders and teach us about the neural dynamics underlying them. 
-I'm currently training toward that at the intersection of fMRI, computational 
-modeling, and neuroscience, coming from a background in mathematics.
+I am motivated by how neuroscience can inform and change
+clinical care for patients with psychiatric disorders such as depression and anxiety. 
+Due to recent work I am particularly interested in non-invasive neuromodulation techniques.
+I'm currently training toward that at the intersection of fMRI, transcranial magnetic stimulation (TMS), computational 
+modeling, and cognitive neuroscience, coming from a background in mathematics.
 
 *I go by Jackie — you may also see me listed as Jacqueline Sifft.*
 
@@ -23,12 +24,11 @@ computational-modeling skills through research projects, with
 the long-term aim of working across levels: from neural dynamics to
 psychiatric symptoms to neuromodulation-based treatment.
  
-Some of the questions I keep coming back to:
-- How do neural dynamics give rise to cognition, and can we model them formally?
+Some of the questions I'd like to investigate:
+- What goes differently in psychiatric disorders and neurodivergent brains?
+- How can we apply that knowledge in clinical care  with neuromodulation techniques such as TMS, DBS or TUS?
 - Can models at different levels of detail (single-neuron, circuit,
-  systems) be connected to each other?
-- What goes differently in psychiatric disorders and neurodivergent brains,
-  and when/how does neuromodulation help?
+  systems) be connected to each other? Which level is best to answer my questions? What are simplifications we should embrace, where do we loose valuable information?
 
 ### Currently learning / working on
 
@@ -38,7 +38,7 @@ Some of the questions I keep coming back to:
 
 ### Get in touch
  
-Open to collaboration, PhD opportunities, or just talking about
+Open to collaboration, master thesis opportunities, or just talking about
 neuromodulation and computational approaches to psychiatry — feel free to
 reach out via email.
 
