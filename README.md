@@ -1,5 +1,5 @@
 # Jacqueline Sifft
-Mathematics $\rightarrow$ cognitive science $\rightarrow$ (moving toward) computational psychiatric neuroscience.
+Mathematics $\rightarrow$ cognitive science $\rightarrow$ (moving toward) computational neuroscience and precision psychiatry.
 
 I am motivated by how neuroscience can inform and change
 clinical care for patients with psychiatric disorders such as depression and anxiety. 
