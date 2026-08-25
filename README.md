@@ -37,6 +37,7 @@ Some of the questions I'd like to investigate long-term:
 - Learning computational methods for neuroscience (e.g DCM), their advantages and disadvantages.
 - Deepening my background in applied mathematics.
 - fMRI analysis and neuroimaging methods (Nilearn, graph based transformers for functional connectivity)
+- Providing example projects on github
 
 
 ### Recent projects, not currently active
