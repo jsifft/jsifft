@@ -53,3 +53,4 @@ neuromodulation and computational approaches to psychiatry — feel free to
 reach out via email.
 
 
+If not at university, you can find me bouldering, sketching with friends in Vienna's parks, or getting lost in the magical worlds inhabiting books. 
