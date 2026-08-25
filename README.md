@@ -24,17 +24,26 @@ computational-modeling skills through research projects, with
 the long-term aim of working across levels: from neural dynamics to
 psychiatric symptoms to neuromodulation-based treatment.
  
-Some of the questions I'd like to investigate:
+Some of the questions I'd like to investigate long-term:
 - What goes differently in psychiatric disorders and neurodivergent brains?
 - How can we apply that knowledge in clinical care  with neuromodulation techniques such as TMS, DBS or TUS?
 - Can models at different levels of detail (single-neuron, circuit,
   systems) be connected to each other? Which level is best to answer my questions? What are simplifications we should embrace, where do we loose valuable information?
+- Is there such a things as functional equivalence classes? Can we apply tools of algebraic topology (e.g. homotopy) to identify/classify these?
+
 
 ### Currently learning / working on
 
-- MRS processing, spectral analysis and quantification (FSL-MRS, Bash)
+- Learning computational methods for neuroscience (e.g DCM), their advantages and disadvantages.
+- Deepening my background in applied mathematics.
 - fMRI analysis and neuroimaging methods (Nilearn, graph based transformers for functional connectivity)
-- Task design for MRI environments (PsychoPy)
+
+
+### Recent projects, not currently active
+
+- MRS processing, spectral analysis and quantification (FSL-MRS, Bash)
+- Task design for MRI environments (PsychoPy) 
+ 
 
 ### Get in touch
  
