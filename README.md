@@ -29,14 +29,17 @@ Some of the questions I'd like to investigate long-term:
 - How can we apply that knowledge in clinical care  with neuromodulation techniques such as TMS, DBS or TUS?
 - Can models at different levels of detail (single-neuron, circuit,
   systems) be connected to each other? Which level is best to answer my questions? What are simplifications we should embrace, where do we loose valuable information?
-- Is there such a things as functional equivalence classes? Can we apply tools of algebraic topology (e.g. homotopy) to identify/classify these?
+- Is there such a thing as functional equivalence classes, or does simplification hit its limits when it comes to understanding the brain?
+ Can we apply tools of algebraic topology (e.g. homotopy) to identify/classify these?
 
+### Current project(s)
+
+- In silico perturbation of whole-brain dynamics in autism spectrum disorder (ASD)
 
 ### Currently learning / working on
 
-- Learning computational methods for neuroscience (e.g DCM), their advantages and disadvantages.
-- Deepening my background in applied mathematics.
-- fMRI analysis and neuroimaging methods (Nilearn, graph based transformers for functional connectivity)
+- Wilson-Cowan Model (Wilson and Cowan, 1972 and 1973)
+- Perturbation Theory (Applied Analysis)
 - Providing example projects on github
 
 
@@ -54,3 +57,11 @@ reach out via email.
 
 
 If not at university, you can find me bouldering, sketching with friends in Vienna's parks, or getting lost in the magical worlds inhabiting books. 
+
+
+### Publications
+
+**Siﬀt, J.**, Großhagauer, S., & Windischberger, C. (2026). Identifying
+Biomarkers of TMS Response in Major Depressive Disorder. Proceed-
+ings of the MEi:CogSci Conference, 20.
+https://journals.phl.univie.ac.at/meicogsci/article/view/1222
