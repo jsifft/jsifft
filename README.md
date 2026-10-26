@@ -17,7 +17,7 @@ modeling, and cognitive neuroscience, coming from a background in mathematics.
 ### Background
  
 BSc in Mathematics (University of Bonn, thesis on Whitehead products in
-algebraic topology), now an MSc student in Cognitive Science (University
+algebraic topology), now an MSc student in Cognitive Science and Mathematics (University
 of Vienna / Medical University of Vienna). I'm early in connecting these
 two sides — right now that means building fMRI/neuroimaging and
 computational-modeling skills through research projects, with
